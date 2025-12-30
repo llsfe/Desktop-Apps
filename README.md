@@ -1,5 +1,5 @@
 <div align="center">
-<img width="200" src="public/llogo.png" alt="Eng.Manager Logo" />
+<img width="200" src="public/dlogo.png" alt="Eng.Manager Logo" />
 
 # Eng.Manager
 **Integrated Engineering Management System**
